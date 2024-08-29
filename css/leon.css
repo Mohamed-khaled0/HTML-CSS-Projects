@@ -1,0 +1,38 @@
+/* Start Global Rules */
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+}
+body{
+    font-family: "Work Sans", sans-serif;
+}
+
+@media (min-width: 768px) {
+    .container {
+    width: 750px;
+    }
+}
+  /* Medium */
+@media (min-width: 992px) {
+    .container {
+    width: 970px;
+    }
+}
+  /* Large */
+@media (min-width: 1200px) {
+    .container {
+    width: 1170px;
+    }
+}
+/* End Global Rules */
+
+.parent{
+    background-color: #eee;
+}
+.container{
+    padding: 0 15px;
+    margin: 0 auto;
+}
