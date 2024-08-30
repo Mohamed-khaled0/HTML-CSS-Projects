@@ -4,7 +4,7 @@ A fully responsive landing page template designed for creative agencies. The tem
 
 ## Demo
 
-Check out the live demo: [Leon Creative Agency Template](https://mohamed-khaled0.github.io/Leon-Creative-Agency-Template/)
+Check out the live demo: [Leon Template](https://mohamed-khaled0.github.io/Leon-Html-Css-Template/)
 
 ## Features
 
