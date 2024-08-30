@@ -1,6 +1,6 @@
 # Leon Creative Agency Template
 
-A fully responsive landing page template designed for creative agencies. The template is built with HTML, CSS, and JavaScript, featuring modern design and animations.
+A fully responsive landing page template designed for creative agencies. The template is built with HTML, CSS featuring modern design and animations.
 
 ## Demo
 
